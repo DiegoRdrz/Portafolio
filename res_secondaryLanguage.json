@@ -13,7 +13,7 @@
       {
         "title": "Inteligencia Artificial",
         "startDate": "2025",
-        "description": "Últimamente he estado trabajando en dos proyectos relacionados con inteligencia artificial. El primero es un chatbot tipo asistente virtual, diseñado para mantener conversaciones naturales y brindar ayuda en distintos contextos. El segundo es un modelo de red neuronal convolucional enfocado en detectar posibles casos de cáncer a partir de imágenes de la piel, combinando técnicas de visión por computador y clasificación. Ambos proyectos los he desarrollado como parte de mi interés por aplicar la IA a problemas reales.",
+        "description": "Últimamente he estado trabajando en dos proyectos relacionados con inteligencia artificial. El primero es un chatbot tipo asistente virtual, diseñado para mantener conversaciones naturales y brindar ayuda psicológica a las personas, y también tiene una función para detectar la probabilidad de que un usuario pueda estar sufriendo depresión. El segundo es un modelo de red neuronal convolucional enfocado en detectar posibles casos de cáncer a partir de imágenes de la piel, combinando técnicas de visión por computador y clasificación. Ambos proyectos los he desarrollado como parte de mi interés por aplicar la IA a problemas reales.",
         "images": [
           "images/portfolio/ia/p1.jpg",
           "images/portfolio/ia/p2.jpg"

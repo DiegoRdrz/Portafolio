@@ -13,7 +13,7 @@
       {
         "title": "Artificial Intelligence",
         "startDate": "2025",
-        "description": "Lately, I've been working on two projects related to artificial intelligence. The first is a virtual assistant-style chatbot designed to hold natural conversations and provide help in different contexts. The second is a convolutional neural network model focused on detecting potential cancer cases from skin images, combining computer vision and classification techniques. I've developed both projects as part of my interest in applying AI to real-world problems.",
+        "description": "Lately, I've been working on two projects related to artificial intelligence. The first is a virtual assistant-style chatbot designed to hold natural conversations and provide psychological help to people, and also has a function to detect the probability that a user may be suffering from depression. The second is a convolutional neural network model focused on detecting potential cancer cases from skin images, combining computer vision and classification techniques. I've developed both projects as part of my interest in applying AI to real-world problems.",
         "images": [
           "images/portfolio/ia/p1.jpg",
           "images/portfolio/ia/p2.jpg"

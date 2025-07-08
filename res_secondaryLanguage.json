@@ -1,0 +1,105 @@
+{
+    "basic_info": {
+      "description_header": "Hola",
+      "description": "Soy Diego, tengo 23 años y soy desarrollador full stack. Trabajo principalmente con Spring Boot en el backend y React en el frontend. También tengo experiencia con otros lenguajes como Node.js, Python y C#, lo que me permite adaptarme fácilmente a distintos entornos de desarrollo. Me manejo bien con bases de datos relacionales y no relacionales, y tengo conocimientos en servicios en la nube como AWS y Azure. Me gusta desarrollar soluciones sólidas, bien estructuradas y pensadas para escalar. Siempre busco escribir código limpio, mantenible y seguir buenas prácticas en todo lo que hago.",
+      "section_name": {
+        "about": "Acerca de mi",
+        "projects": "Projectos",
+        "skills": "Habilidades",
+        "experience": "Experiencia"
+      }
+    },
+    "projects": [
+      {
+        "title": "Inteligencia Artificial",
+        "startDate": "2025",
+        "description": "Últimamente he estado trabajando en dos proyectos relacionados con inteligencia artificial. El primero es un chatbot tipo asistente virtual, diseñado para mantener conversaciones naturales y brindar ayuda en distintos contextos. El segundo es un modelo de red neuronal convolucional enfocado en detectar posibles casos de cáncer a partir de imágenes de la piel, combinando técnicas de visión por computador y clasificación. Ambos proyectos los he desarrollado como parte de mi interés por aplicar la IA a problemas reales.",
+        "images": [
+          "images/portfolio/ia/p1.jpg",
+          "images/portfolio/ia/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-scikitlearn-plain",
+            "name": "SciKit-Learn"
+          },
+          {
+            "class": "devicon-Gradio-plain",
+            "name": "Gradio"
+          }
+        ]
+      },
+      {
+        "title": "Varios",
+        "startDate": "2022",
+        "description": "A lo largo del tiempo he desarrollado varios proyectos personales y académicos. Entre ellos, un juego de Tetris hecho con JavaScript puro, un blog con React y Node.js, un medidor de velocidad de internet y aplicaciones tipo sistema de supermercado con funcionalidades completas para gestión de productos, ventas y usuarios. Estos proyectos me han permitido reforzar mis habilidades en diseño de interfaces, lógica de negocio y trabajo full stack de principio a fin.",
+        "images": [
+          "images/portfolio/varios/p1.jpg",
+          "images/portfolio/varios/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          }
+        ]
+      },
+      {
+        "title": "Actualmente",
+        "startDate": "2025",
+        "description": "Actualmente estoy desarrollando una aplicación tipo Amazon para la venta de productos, con enfoque full stack. Estoy usando Spring Boot en el backend con librerías como Spring Security y Eureka, junto con un API Gateway y autenticación JWT. En el frontend trabajo con React, y para la base de datos uso MongoDB. El proyecto está orientado a manejar múltiples servicios y usuarios, con enfoque en escalabilidad, seguridad y arquitectura basada en microservicios.",
+        "images": [
+          "images/portfolio/cs/p1.jpg",
+          "images/portfolio/cs/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-spring-original",
+            "name": "Spring Boot"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Proteccion S.A.",
+        "title": "Aprendiz de Desarrollo de Software",
+        "years": "Agosto 2023 - Febrero 2024",
+        "mainTech": [
+          "Spring Boot",
+          "react",
+          "graphQL",
+          "DynamoDB"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "react",
+          "AWS",
+          "GraphQL",
+          "DynamoDB",
+          "azure"
+        ]
+      }
+    ]
+  }

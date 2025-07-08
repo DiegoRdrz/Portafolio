@@ -1,0 +1,105 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "I'm Diego, I'm 23 years old and a full stack developer. I mainly work with Spring Boot on the backend and React on the frontend. I also have experience with other languages like Node.js, Python, and C#, which allows me to adapt easily to different development environments. I'm comfortable working with both relational and non-relational databases, and I have knowledge of cloud services like AWS and Azure. I enjoy building solid, well-structured, and scalable solutions. I always strive to write clean, maintainable code and follow best practices in everything I do.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Artificial Intelligence",
+        "startDate": "2025",
+        "description": "Lately, I've been working on two projects related to artificial intelligence. The first is a virtual assistant-style chatbot designed to hold natural conversations and provide help in different contexts. The second is a convolutional neural network model focused on detecting potential cancer cases from skin images, combining computer vision and classification techniques. I've developed both projects as part of my interest in applying AI to real-world problems.",
+        "images": [
+          "images/portfolio/ia/p1.jpg",
+          "images/portfolio/ia/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-scikitlearn-plain",
+            "name": "SciKit-Learn"
+          },
+          {
+            "class": "devicon-Gradio-plain",
+            "name": "Gradio"
+          }
+        ]
+      },
+      {
+        "title": "Various",
+        "startDate": "2022",
+        "description": "Over time, I’ve developed several personal and academic projects. These include a Tetris game built with pure JavaScript, a blog using React and Node.js, a WI-FI SpeedTest and supermarket-style applications with full features for managing products, sales, and users. These projects have helped me strengthen my skills in interface design, business logic, and full stack development from start to finish.",
+        "images": [
+          "images/portfolio/varios/p1.jpg",
+          "images/portfolio/varios/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          }
+        ]
+      },
+      {
+        "title": "Currently",
+        "startDate": "2025",
+        "description": "I'm currently developing an Amazon-style application for product sales, with a full stack approach. I'm using Spring Boot on the backend with libraries like Spring Security and Eureka, along with an API Gateway and JWT authentication. On the frontend, I work with React, and for the database, I use MongoDB. The project is designed to handle multiple services and users, with a focus on scalability, security, and a microservices-based architecture.",
+        "images": [
+          "images/portfolio/cs/p1.jpg",
+          "images/portfolio/cs/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-spring-original",
+            "name": "Spring Boot"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Proteccion S.A.",
+        "title": "Software Development Intern",
+        "years": "August 2023 - February 2024",
+        "mainTech": [
+          "Spring Boot",
+          "react",
+          "graphQL",
+          "DynamoDB"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "react",
+          "AWS",
+          "GraphQL",
+          "DynamoDB",
+          "azure"
+        ]
+      }
+    ]
+  }
